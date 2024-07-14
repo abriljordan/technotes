@@ -38,4 +38,12 @@ layout: hextra-home
     title="DevOps"
     subtitle="No dependency or Node.js is needed to use Hextra. Powered by Hugo, one of *the fastest* static site generators, building your site in just seconds with a single binary."
   >}}
+  {{< hextra/feature-card
+    title="Active Directory"
+    subtitle="No dependency or Node.js is needed to use Hextra. Powered by Hugo, one of *the fastest* static site generators, building your site in just seconds with a single binary."
+  >}}
+  {{< hextra/feature-card
+    title="Linux"
+    subtitle="No dependency or Node.js is needed to use Hextra. Powered by Hugo, one of *the fastest* static site generators, building your site in just seconds with a single binary."
+  >}}
 {{< /hextra/feature-grid >}}
